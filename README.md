@@ -1,9 +1,7 @@
-![Header](![github-header-image](https://github.com/masontaylor7/masontaylor7/assets/89224301/de656edd-3da0-4e08-aa41-ef8c56face5d))
-<h1 align="center">Hi 👋, I'm Mason Taylor</h1>
-<h3 align="center">A passionate frontend developer from California</h3>
+![Header](https://github.com/masontaylor7/masontaylor7/assets/89224301/de656edd-3da0-4e08-aa41-ef8c56face5d)
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=masontaylor7&label=Profile%20views&color=0e75b6&style=flat" alt="masontaylor7" /> </p>
+<p align="left" > <img src="https://komarev.com/ghpvc/?username=masontaylor7&label=Profile%20views&color=0e75b6&style=flat" alt="masontaylor7" /> </p>
 
 - 🔭 I’m currently working on **a Nike clone application.**
 
