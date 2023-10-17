@@ -1,5 +1,4 @@
 ![github-header-image (1)](https://github.com/masontaylor7/masontaylor7/assets/89224301/3e592512-19aa-441d-9be4-99b342723fe1)
-)
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=masontaylor7&label=Profile%20views&color=0e75b6&style=flat" alt="masontaylor7" /> </p>
